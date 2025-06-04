@@ -2,7 +2,7 @@
 
 Simple app to find cooking recipes.
 
-Live on https://forkifyapp-web.netlify.app
+Live on https://recipe.myronenko.space
 
 Just enter any query you want to find a cooking recipe (for example 'pizza' or 'avocado').
 
